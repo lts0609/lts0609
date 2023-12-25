@@ -1,6 +1,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lts0609/lts0609/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lts0609/lts0609/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--
